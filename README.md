@@ -48,7 +48,7 @@ Pay per tool call ($0.02). One search, profile, subsidy, or procurement lookup =
 
 Hosted MCP server on Apify Store:
 
-👉 **https://apify.com/plus-synergy/japan-company-leads-mcp**
+👉 **https://apify.com/e-asakura/japan-company-leads-mcp**
 
 ---
-*Built by [Plus Synergy](https://apify.com/plus-synergy) — Japanese data infrastructure for AI agents.*
+*Built by [Edward Asakura](https://apify.com/e-asakura) — Japanese data infrastructure for AI agents.*
